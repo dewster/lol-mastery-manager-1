@@ -3,6 +3,9 @@ LoL Mastery Manager
 
 [![Github Releases](https://img.shields.io/github/downloads/maxdeviant/lol-mastery-manager/latest/total.svg?style=flat-square)](https://github.com/maxdeviant/lol-mastery-manager/releases/latest)
 
+This is a fork of maxdeviant's LoL Mastery Manager with fixes.
+Working version for Patch 7.1 Legacy Client
+
 > **NOTICE:** Development for LoL Mastery Manager is currently on hiatus.
 
 A tool for managing mastery pages in League of Legends. Inspired by [Championify](https://github.com/dustinblackman/Championify).
